@@ -15,4 +15,7 @@ Gate：在主办方验证集上按类别搜索 F1 最高的阈值。
 压缩前大小：42.73 MB
 SHA256：8d3acd9eec49d3531d76a4a9959bbf5a6b6d8c43febee035143eff71b58cec94
 
-公网链接：权重、许可证和本说明都在本压缩包内。本机没有可公开上传的地址，未填写外部链接。
+公网链接（无需登录即可打开）：
+权重：https://raw.githubusercontent.com/xiaowenxiaoli/cxr-submit/main/best_imagenet.pt
+许可证：https://raw.githubusercontent.com/xiaowenxiaoli/cxr-submit/main/%E8%AE%B8%E5%8F%AF%E8%AF%81.txt
+训练说明：https://raw.githubusercontent.com/xiaowenxiaoli/cxr-submit/main/%E8%AE%AD%E7%BB%83%E8%AF%B4%E6%98%8E.txt
